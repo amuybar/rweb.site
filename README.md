@@ -1,41 +1,43 @@
-<div align="center" style="background: linear-gradient(to bottom right, #f7f7f7, #e2e2e2); padding: 20px; border-radius: 10px; font-family: 'Arial', sans-serif; color: #333;">
+<div style="background-color: #0d1a2b; padding: 20px; border-radius: 10px; font-family: 'Arial', sans-serif; color: white;">
 
-<h1 style="font-size: 2.5em; margin: 0 0 20px; color: #2C3E50;">rweb.site</h1>
+<div align="center">
+  <h1 style="font-size: 2.5em; margin: 0 0 20px; color: #3498DB;">rweb.site</h1>
 
-<p><strong>FREE</strong> <code>rweb.site</code> subdomain for personal websites, open-source projects and more. Get your own short subdomain now!</p>
+  <p><strong>FREE</strong> <code>rweb.site</code> subdomain for personal websites, open-source projects and more. Get your own short subdomain now!</p>
 
-<a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-%23EFEFEF?style=flat-square&logoColor=white&labelColor=black" style="margin: 5px;"></a>
-<a href="https://github.com/katorlys/rweb.site/pulls"><img src="https://img.shields.io/github/issues-pr-closed-raw/katorlys/rweb.site?style=flat-square&logoColor=white&label=applications&labelColor=black&color=%2379E096" style="margin: 5px;"></a>
-<a href="https://github.com/katorlys/rweb.site/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/katorlys/rweb.site?style=flat-square&logoColor=white&label=applicants&labelColor=black&color=%23FFC868" style="margin: 5px;"></a>
-<a href="https://github.com/katorlys/rweb.site/pulse/monthly"><img src="https://img.shields.io/github/commit-activity/m/katorlys/rweb.site?style=flat-square&logoColor=white&label=frequency&labelColor=black&color=%2377CCF6" style="margin: 5px;"></a>
-<a href="https://github.com/katorlys/rweb.site/stargazers"><img src="https://img.shields.io/github/stars/katorlys/rweb.site?style=flat-square&logoColor=white&label=stars&labelColor=black&color=%23FF97A8" style="margin: 5px;"></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/badge/license-MIT-%23EFEFEF?style=flat-square&logoColor=white&labelColor=black" style="margin: 5px;"></a>
+  <a href="https://github.com/katorlys/rweb.site/pulls"><img src="https://img.shields.io/github/issues-pr-closed-raw/katorlys/rweb.site?style=flat-square&logoColor=white&label=applications&labelColor=black&color=%2379E096" style="margin: 5px;"></a>
+  <a href="https://github.com/katorlys/rweb.site/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/katorlys/rweb.site?style=flat-square&logoColor=white&label=applicants&labelColor=black&color=%23FFC868" style="margin: 5px;"></a>
+  <a href="https://github.com/katorlys/rweb.site/pulse/monthly"><img src="https://img.shields.io/github/commit-activity/m/katorlys/rweb.site?style=flat-square&logoColor=white&label=frequency&labelColor=black&color=%2377CCF6" style="margin: 5px;"></a>
+  <a href="https://github.com/katorlys/rweb.site/stargazers"><img src="https://img.shields.io/github/stars/katorlys/rweb.site?style=flat-square&logoColor=white&label=stars&labelColor=black&color=%23FF97A8" style="margin: 5px;"></a>
 
-<p>**English** · <a href="/docs/zh-CN/README.md" style="color: #3498DB;">简体中文</a></p>
-
+  <p>**English** · <a href="/docs/zh-CN/README.md" style="color: #FFD700;">简体中文</a></p>
 </div>
 
 ## How to get one?
-<div style="font-family: 'Arial', sans-serif; color: #333;">
-1. 🌟 Star this repo.
-2. 🍴 Fork this repo.
-3. 🧠 Think of a unique subdomain for your site. It should be no less than 2 words. 
-4. 🔍 Open [`records.json`](/records.json), and use `Ctrl`+`F5` to check whether it was claimed. If it was, think of another domain.
-5. ⚙️ Set the custom subdomain for your site.
-6. 📄 Add the subdomain to `cname` in [`records.json`](/records.json) file, for example, `"xxx": "your-site.vercel.app"`.
-7. 🥰 Make a Pull Request to this repo.
+<div style="font-family: 'Arial', sans-serif; color: white;">
+1. <span style="color: #00FF00;">🌟</span> Star this repo.
+2. <span style="color: #00FF00;">🍴</span> Fork this repo.
+3. <span style="color: #00FF00;">🧠</span> Think of a unique subdomain for your site. It should be no less than 2 words. 
+4. <span style="color: #00FF00;">🔍</span> Open [`records.json`](/records.json), and use `Ctrl`+`F5` to check whether it was claimed. If it was, think of another domain.
+5. <span style="color: #00FF00;">⚙️</span> Set the custom subdomain for your site.
+6. <span style="color: #00FF00;">📄</span> Add the subdomain to `cname` in [`records.json`](/records.json) file, for example, `"xxx": "your-site.vercel.app"`.
+7. <span style="color: #00FF00;">🥰</span> Make a Pull Request to this repo.
 
 If everything is fine, your Pull Request will be merged within 3 days, and you can enjoy your subdomain after 1~10 minutes (for the DNS record to update) after that.  
 
 ✅ Your subdomain is guaranteed. We have acquired `rweb.site` for **10 years**, and we plan to renew it at the 9th year.  
+</div>
 
 ## Why?
+<div style="font-family: 'Arial', sans-serif; color: white;">
 There was a time when I couldn't afford a domain or didn't want to spend money on a domain for a project that I wasn't sure would be successful. I used to use free subdomains from services like `github.io` or something else provided by the kind community, and I'm grateful for that. But I think it's time to give back. 🎁  
 
 Sometimes, you just want a short and easy-to-remember domain for your project or website. `rweb.site` is a free service that provides you with a subdomain for your project or website. It's easy to remember and looks cool. 🔮  
 </div>
 
 ## FAQ
-<div style="font-family: 'Arial', sans-serif; color: #333;">
+<div style="font-family: 'Arial', sans-serif; color: white;">
 **Q:** What does `rwebsite` mean?  
 **A:** It stands for "revolutionary website" or "real website". You can also think of it as whatever you like.  
 
