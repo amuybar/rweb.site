@@ -1,4 +1,4 @@
-<div align="center" style="background: url('your-background-image.jpg') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px; color: white;">
+<div align="center" style="background: linear-gradient(to bottom right, #f7f7f7, #e2e2e2); padding: 20px; border-radius: 10px; font-family: 'Arial', sans-serif; color: #333;">
 
 <h1 style="font-size: 2.5em; margin: 0 0 20px; color: #2C3E50;">rweb.site</h1>
 
@@ -15,6 +15,7 @@
 </div>
 
 ## How to get one?
+<div style="font-family: 'Arial', sans-serif; color: #333;">
 1. 🌟 Star this repo.
 2. 🍴 Fork this repo.
 3. 🧠 Think of a unique subdomain for your site. It should be no less than 2 words. 
@@ -31,8 +32,10 @@ If everything is fine, your Pull Request will be merged within 3 days, and you c
 There was a time when I couldn't afford a domain or didn't want to spend money on a domain for a project that I wasn't sure would be successful. I used to use free subdomains from services like `github.io` or something else provided by the kind community, and I'm grateful for that. But I think it's time to give back. 🎁  
 
 Sometimes, you just want a short and easy-to-remember domain for your project or website. `rweb.site` is a free service that provides you with a subdomain for your project or website. It's easy to remember and looks cool. 🔮  
+</div>
 
 ## FAQ
+<div style="font-family: 'Arial', sans-serif; color: #333;">
 **Q:** What does `rwebsite` mean?  
 **A:** It stands for "revolutionary website" or "real website". You can also think of it as whatever you like.  
 
@@ -47,3 +50,4 @@ Sometimes, you just want a short and easy-to-remember domain for your project or
 
 **Q:** Can I use it for my commercial projects?  
 **A:** Yes, you can.  
+</div>
